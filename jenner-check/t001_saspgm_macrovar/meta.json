@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_saspgm_macrovar",
+  "source_file": "Macro_sasprogramfile.sas",
+  "source_blob_sha": "e5a10eb64e1bf6dbabe5faae2b9f9ddc4714ff6f",
+  "source_commit": "e9380bfcabf310e88363d76adfdf22c5e6b9fc19",
+  "notes": "Author's one-line macro program that %puts the _SASPROGRAMFILE automatic macro variable to show the running program's path. Runs unmodified on Jenner (status ok, exit 0). No data files needed; autoexec only caps rows. Deterministic across two POSTs."
+}
